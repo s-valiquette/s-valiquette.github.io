@@ -19,7 +19,7 @@ repository               : "https://github.com/s-valiquette"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/s-valiquette/s-valiquette.github.io/tree/master/images/profile.jpg"
+  avatar           : "https://github.com/s-valiquette/s-valiquette.github.io/images/profile.jpg"
   name             : "Samuel Valiquette"
   bio              : "Postdoctoral Fellow in Statistics"
   location         : "Montréal, Canada"
