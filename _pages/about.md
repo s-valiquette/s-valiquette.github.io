@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral fellow at [McGill University](https://www.mcgill.ca/mathstat/)  in the Department of Mathematics and Statistics, working under the supervision of [Christian Genest](https://www.math.mcgill.ca/cgenest/) and [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/). I completed a Joint PhD in mathematics at [Université de Sherbrooke](https://www.usherbrooke.ca/mathematiques/) and [Université de Montpellier](https://maths-fds.edu.umontpellier.fr/) under the supervision of [Éric Marchand](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/eric-marchand) from the Départment de mathématiques de l'Université de Sherbrooke, [Gwladys Toulemonde](https://imag.umontpellier.fr/~toulemonde/) and [Jean Peyhardi](https://jeanpeyhardi.wixsite.com/my-site/copie-de-resume) from the Institut Montpelliérain Alexander Grothendieck (IMAG), and [Frédéric Mortier](https://agents.cirad.fr/frederic.mortier) from the Centre de coopération internationale en recherche agronomique pour le développement (Cirad). 
 
-My PhD thesis, titled On count data within the framework of extreme values and multivariate modeling, was defended and accepted on July 3, 2024.
+My PhD thesis, titled [On count data within the framework of extreme values and multivariate modeling](http://s-valiquette.github.io/files/valiquette_samuel_PhD_2024.pdf), was defended and accepted on July 3, 2024.
 
 Research interests
 ------
