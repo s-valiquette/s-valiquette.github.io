@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a Postdoctoral fellow at [McGill University](https://www.mcgill.ca/mathstat/) 
 
 Research interests
 ------
