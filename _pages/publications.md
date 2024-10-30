@@ -12,4 +12,4 @@ author_profile: true
 
 ## Thesis
 1) Valiquette, S. (2024). [On count data within the framework of extreme values and multivariate modeling](https://savoirs.usherbrooke.ca/handle/11143/21889). PhD Thesis, Université de Montpellier & Université de Sherbrooke.
-2) Valiquette, S. (2020). [Théorie des valeurs extrêmes dans le cadre des mélanges de Poisson](https://savoirs.usherbrooke.ca/handle/11143/21889). Master's Thesis, Université de Montpellier & Université de Sherbrooke.
+2) Valiquette, S. (2020). [Théorie des valeurs extrêmes dans le cadre des mélanges de Poisson](http://s-valiquette.github.io/files/stage_Samuel_2020_Final.pdf). Master's Thesis, Université de Montpellier & Université de Sherbrooke.
