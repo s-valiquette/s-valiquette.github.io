@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 - **Comportement extrême des mélanges Poisson** (<ins>Invited</ins>). *[Séminaire du CIMMUL](https://cimmul.fsg.ulaval.ca/event/seminaire-du-cimmul-statistique-simon-valiquette/)*. September 27, 2024, Québec, Canada. 
-- **Modèle multivarié discret Tree Pólya Splitting** (<ins>Invited</ins>). *Rencontres Scientifiques Montpellier-Sherbrooke*. June 20, 2024, Sherbrooke, Canada.
+- **Modèle multivarié discret Tree Pólya Splitting** (<ins>Invited</ins>). *[Rencontres Scientifiques Montpellier-Sherbrooke](http://s-valiquette.github.io/files/colloque_statistique_UdeS_UM_2024.pdf)*. June 20, 2024, Sherbrooke, Canada.
 - **Multivariate Discrete Tree Pólya Splitting Distributions**. *2024 SSC Annual Meeting*. June 4, 2024, St-John’s, Canada.
 - **Comportement asymptotique des mélanges Poisson** (<ins>Poster</ins>). *Semaine des études supérieures à la Faculté des sciences - Université de Sherbrooke*. January 24, 2024, Sherbrooke, Canada.
 - **Asymptotic tail properties of Poisson mixture distributions**. *Joint Statistical Meetings (JSM) 2023*. August 10, 2023, Sherbrooke, Canada.
