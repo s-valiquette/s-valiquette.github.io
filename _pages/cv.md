@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-
+* PhD
+* 
 Work experience
 ======
 
