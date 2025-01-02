@@ -9,6 +9,7 @@ author_profile: true
 
 I am currently teaching the course [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/) at the Université de Sherbrooke. 
 This course is offered as part of the Master’s program in Computer Science with a specialization in Artificial Intelligence, as well as for both Master’s and Doctoral programs in Mathematics.
+I am also co-supervising an undergraduate student, Ziyu Zhou, for the course [MATH 410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410) at McGill University during the Winter 2025 semester.
 
 ## Previous Assignments
 
