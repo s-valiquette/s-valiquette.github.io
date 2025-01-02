@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+A full version of my curriculum vitæ can be download [here](http://s-valiquette.github.io/files/CV_Samuel_Valiquette.pdf).
+
 Education
 ======
 * **Joint Ph.D in Mathematics/Biostatistics**, <em>Université de Montpellier & Université de Sherbrooke</em>, 2024.<br>
