@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming
-- **TBA** (<ins>Invited</ins>). *[McGill Statistics Seminars](https://mcgillstat.github.io/)*. January 17, 2025, Montréal, Canada.
+- **Tree Pólya Splitting distributions for multivariate count data** (<ins>Invited</ins>). *[McGill Statistics Seminars](https://mcgillstat.github.io/)*. January 17, 2025, Montréal, Canada.
 - **TBA** (<ins>Invited</ins>). *[Séminaires de STATQAM](https://statqam.uqam.ca/2024-2025/)*. January 30, 2025, Montréal, Canada.
 
 ## Past Talks
