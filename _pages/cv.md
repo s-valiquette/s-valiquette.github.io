@@ -44,4 +44,5 @@ Scholarships and awards
 Service and leadership
 ======
 * Co-organizer, alongside [Mehdi Dagboug](https://mehdidagdoug.github.io/), of the [McGill Statistics Seminar](https://mcgillstat.github.io/) for the academic year 2024-2025.
+* Reviewer for the [Journal of Multivariate Analysis](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis).
 * Executive member (Vice-president) of the undergraduate student union at the Département de mathématiques et de statistique of the Université de Montréal for the academic year 2017-2018.
