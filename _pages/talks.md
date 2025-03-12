@@ -19,6 +19,6 @@ author_profile: true
 11. **Le Bon, le Standard et l’Exact**. *Séminaires Universitaire en Mathématiques à Montréal (SUMM) 2019*. January 12, 2019, Montréal, Canada.
 
 ## Science Popularization
-- **Presentation of graduate studies**, *François-Williams highschool*, April 2024, Saint-Amable, Canada.
+- **Presentation of graduate studies**, *François-Williams highschool*, April 10, 2024, Saint-Amable, Canada.
   * A panel of PhD students from various fields presented their perspectives on university life and the benefits of pursuing advanced degrees to high school students.
   * My aim was to make the work of a statistician and the value of higher education in mathematics accessible and engaging.
