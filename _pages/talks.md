@@ -4,6 +4,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+## Incoming Talks
+1. **Asymptotic Tail Properties of Poisson Mixture Distributions**. *[2025 SSC Annual Meeting](https://ssc.ca/fr/congres/annuel/presentation/asymptotic-tail-properties-poisson-mixture-distributions)*. May 26, 2025, Saskatoon, Canada.
 
 ## Past Talks
 1. **Modélisation multivariée par agrégation hiérarchique** (<ins>Invited</ins>). *[Séminaires de statistique](https://www.usherbrooke.ca/mathematiques/recherche/congres-et-colloques/seminaires-de-statistique)*. March 6, 2025, Sherbrooke, Canada.
