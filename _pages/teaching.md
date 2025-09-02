@@ -7,17 +7,18 @@ author_profile: true
 
 ## Current course
 
-I am currently teaching the course [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/) at the Université de Sherbrooke. 
-This course is offered as part of the Master’s program in Computer Science with a specialization in Artificial Intelligence, as well as for both Master’s and Doctoral programs in Mathematics.
-I am also co-supervising an undergraduate student, Ziyu Zhou, for the course [MATH 410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410) at McGill University during the Winter 2025 semester.
+I am currently teaching the course [MATH262 - Intermediate Calculus](https://coursecatalogue.mcgill.ca/courses/math-262/) at McGill University in the Fall 2025 semester.
+This first-year course is offered to undergraduate students in the Bachelor of Engineering program at the Faculty of Engineering.
 
 ## Previous Assignments
+### Supervisor
+- [MATH 410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410) - Ziyu Zhou, Multtivariate Modeling via Tree Pólya Splitting (Winter 25)
 
 ### Instructor
-- STT760 - Mathematics for Artificial Intelligence. Graduate, Université de Sherbrooke (Fall 23)
+- [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/) - Mathematics for Artificial Intelligence. Graduate, Université de Sherbrooke (Fall 23, Fall 24)
 
 ### Teaching assistant
-- STT760 - Mathematics for Artificial Intelligence. Graduate, Université de Sherbrooke (Fall 22, Fall 21)
+- [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/) - Mathematics for Artificial Intelligence. Graduate, Université de Sherbrooke (Fall 22, Fall 21)
 - [STT563 - Linear Statistical Model](https://www.usherbrooke.ca/admission/fiches-cours/STT563). Undergraduate, Université de Sherbrooke (Winter 22, Winter 21)
 - [STT438 - Computational Statistic](https://www.usherbrooke.ca/admission/fiches-cours/stt438/statistique-computationnelle/). Undergraduate, Université de Sherbrooke (Fall 23, Fall 22)
 - [STT289 - Probability](https://www.usherbrooke.ca/admission/fiches-cours/STT289/probabilites/). Undergraduate, Université de Sherbrooke (Fall 21)
