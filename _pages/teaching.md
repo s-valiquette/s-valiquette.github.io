@@ -9,10 +9,11 @@ author_profile: true
 
 I am currently teaching the course [MATH262 - Intermediate Calculus](https://coursecatalogue.mcgill.ca/courses/math-262/) at McGill University in the Fall 2025 semester.
 This first-year course is offered to undergraduate students in the Bachelor of Engineering program at the Faculty of Engineering.
+I will also be a co-supervisor for Cedric Phillips, alongside Professor [Johanna Nešlehová](https://www.math.mcgill.ca/neslehova/) as part of [MATH 410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410).
 
 ## Previous Assignments
 ### Supervisor
-- [MATH 410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410) - Ziyu Zhou, Multtivariate Modeling via Tree Pólya Splitting (Winter 25)
+- MATH 410 - Majors Project - Ziyu Zhou, Multtivariate Modeling via Tree Pólya Splitting (Winter 25)
 
 ### Instructor
 - [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/) - Mathematics for Artificial Intelligence. Graduate, Université de Sherbrooke (Fall 23, Fall 24)
