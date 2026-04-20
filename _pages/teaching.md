@@ -12,7 +12,7 @@ The research project is based on the article [_A class of multivariate Bernoulli
 
 ## Previous Assignments
 ### Supervisor
-- [MATH410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410). Ziyu Zhou, Multtivariate Modeling via Tree Pólya Splitting, McGill University (Winter 25)
+- [MATH410 - Majors Project](https://www.mcgill.ca/study/2024-2025/courses/math-410). Ziyu Zhou, Multivariate Modeling via Tree Pólya Splitting, McGill University (Winter 25)
 
 ### Instructor
 - [MATH262 - Intermediate Calculus](https://coursecatalogue.mcgill.ca/courses/math-262/). Undergraduate Course, McGill University (Fall 25)
