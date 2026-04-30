@@ -12,7 +12,7 @@ author_profile: true
 4. Valiquette, S., Toulemonde, G., Peyhardi, J., Marchand, É., & Mortier, F. (2023). [Asymptotic tail properties of Poisson mixture distributions](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.622). Stat, 12(1), e622.
 
 ## Popular Science Articles
-1. Genest, C. & Valiquette, S. (In preparation). Le Lotto 6/49. Accromath
+1. Genest, C. & Valiquette, S. (2026). Le Lotto 6/49. Accromath, 21 (2), in press.
 2. Genest, C. & Valiquette, S. (In preparation). Les mathématiques du Lotto 6/49. Bulletin AMQ
 
 ## Thesis
