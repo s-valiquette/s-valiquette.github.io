@@ -21,11 +21,11 @@ author:
   # Biographic information
   avatar           : "https://s-valiquette.github.io/files/profile.png"
   name             : "Samuel Valiquette"
-  bio              : "Postdoctoral Fellow in Statistics"
-  location         : "Montréal, Canada"
-  employer         : "McGill University"
+  bio              : "Assistant Professor in Statistics"
+  location         : "Sherbrooke, Canada"
+  employer         : "Université de Sherbrooke"
   uri              : # URL
-  email            : "samuel.valiquette@mcgill.ca" 
+  email            : "samuel.valiquette@usherbrooke.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
