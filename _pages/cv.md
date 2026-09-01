@@ -31,7 +31,7 @@ Project: <ins>Master File for graduate students in Canada</ins>.
    
 Teaching
 ======
-Instructor for the graduate course <em>Mathematics for Artificial Intelligence</em> (Fall 2023 & 2024) and teaching assistant for a wide range of undergraduate and graduate courses at Université de Sherbrooke from 2018 to 2023. For more details, see the [Teaching section](https://s-valiquette.github.io//teaching/).
+See the [Teaching section](https://s-valiquette.github.io//teaching/).
 
 Scholarships and awards
 ======
@@ -43,7 +43,8 @@ Scholarships and awards
 
 Service and leadership
 ======
-* Co-organizer, alongside [Mehdi Dagboug](https://mehdidagdoug.github.io/), of the [McGill Statistics Seminar](https://mcgillstat.github.io/) for the academic year 2024-2025.
-* Reviewer for the [Journal of Multivariate Analysis](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis).
+* Member of the [Bilingualism Committee](https://ssc.ca/en/committees/bilingualism-committee) for the Statistical Society of Canada (2026-2029).
+* Co-organizer of the [McGill Statistics Seminar](https://mcgillstat.github.io/) (2024-2026), alongside [Mehdi Dagboug](https://mehdidagdoug.github.io/).
+* Reviewer for the [Journal of Multivariate Analysis](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis) and [Sankhya A](https://link.springer.com/journal/13171).
 * Judge for the oral and poster presentation sessions at the [Thirteenth annual Canadian Statistics Student Conference (CSSC)](https://ssc.ca/en/meetings/thirteenth-annual-canadian-statistics-student-conference), May 24, 2025.
 * Executive member (Vice-president) of the undergraduate student union at the Département de mathématiques et de statistique of the Université de Montréal for the academic year 2017-2018.
