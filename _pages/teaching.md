@@ -20,9 +20,9 @@ I am currently teaching [STT760 - Mathematics for Artificial Intelligence](https
 - [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/). Graduate Course, Université de Sherbrooke (Fall 23, Fall 24)
 
 ### Teaching assistant
+- [STT438 - Computational Statistic](https://www.usherbrooke.ca/admission/fiches-cours/stt438/statistique-computationnelle/). Undergraduate Course, Université de Sherbrooke (Fall 23, Fall 22)
 - [STT760 - Mathematics for Artificial Intelligence](https://www.usherbrooke.ca/admission/fiches-cours/STT760/mathematiques-pour-lintelligence-artificielle/). Graduate Course, Université de Sherbrooke (Fall 22, Fall 21)
 - [STT563 - Linear Statistical Model](https://www.usherbrooke.ca/admission/fiches-cours/STT563). Undergraduate Course, Université de Sherbrooke (Winter 22, Winter 21)
-- [STT438 - Computational Statistic](https://www.usherbrooke.ca/admission/fiches-cours/stt438/statistique-computationnelle/). Undergraduate Course, Université de Sherbrooke (Fall 23, Fall 22)
 - [STT289 - Probability](https://www.usherbrooke.ca/admission/fiches-cours/STT289/probabilites/). Undergraduate Course, Université de Sherbrooke (Fall 21)
 - [MAT153 - Introduction to Linear Algebra](https://www.usherbrooke.ca/admission/fiches-cours/MAT153). Undergraduate Course, Université de Sherbrooke (Fall 20)
 - [MAT356 - Analytical Geometry](https://www.usherbrooke.ca/admission/fiches-cours/MAT356/). Undergraduate Course, Université de Sherbrooke (Winter 19)
