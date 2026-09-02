@@ -44,6 +44,7 @@ Scholarships and awards
 Service and leadership
 ======
 * Member of the [Bilingualism Committee](https://ssc.ca/en/committees/bilingualism-committee) for the Statistical Society of Canada (2026-2029).
+* Co-organizer of the Séminaire de Statistique at Université de Sherbrooke (2026), alongside [Taoufik Bouezmarni](https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/taoufik-bouezmarni).
 * Co-organizer of the [McGill Statistics Seminar](https://mcgillstat.github.io/) (2024-2026), alongside [Mehdi Dagboug](https://mehdidagdoug.github.io/).
 * Reviewer for the [Journal of Multivariate Analysis](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis) and [Sankhya A](https://link.springer.com/journal/13171).
 * Judge for the oral and poster presentation sessions at the [Thirteenth annual Canadian Statistics Student Conference (CSSC)](https://ssc.ca/en/meetings/thirteenth-annual-canadian-statistics-student-conference), May 24, 2025.
