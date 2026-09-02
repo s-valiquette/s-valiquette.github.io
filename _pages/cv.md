@@ -22,6 +22,8 @@ Education
   
 Work experience
 ======
+* **Postdoctoral Fellow in Statistics**, McGill University, Montréal, 2024-2026.<br>
+Supervisors: Christian Genest & Johanna Nešlehová.
 * **Bombardier Produits Récréatifs (Intern)**, Sherbrooke, 2019.<br>
 Project: <ins>Time series analysis of recreational vehicles</ins>.
 * **Employment and Social Development Canada (Intern)**, Gatineau, 2018.<br>
